@@ -4,3 +4,4 @@ NodeJS applications
 NodeJS applications
 Net applications
 python application
+python scripting
